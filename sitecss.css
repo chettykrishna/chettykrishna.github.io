@@ -235,13 +235,8 @@
 	background-color: #228427;
 	}
 	
-	a {
+	a, img {
 	border: none;
-	outline: none;
-	}
-	img {
-	border: 8px solid;
-	border-radius: 25px;
 	outline: none;
 	}
 	
